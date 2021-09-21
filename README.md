@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on bulding iOS apps
-- 📫 How to reach me tamimsami2020@gmail.com
+- 📫 How to reach me alhussayen.t@gmail.com
 
 <!---
 talhussayen/talhussayen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
